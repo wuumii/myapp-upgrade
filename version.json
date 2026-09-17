@@ -1,5 +1,6 @@
 {
   "version": "1.9",
-  "url": "https://your-server.com/pal-incubator.apk",
+  "url": "https://raw.githubusercontent.com/wuumii/myapp-upgrade/refs/heads/main/pal-incubator.apk
+",
   "changelog": "测试更新功能"
 }
