@@ -1,5 +1,0 @@
-{
-  "version": "1.9",
-  "url": "https://raw.githubusercontent.com/wuumii/myapp-upgrade/refs/heads/main/pal-incubator.apk",
-  "changelog": "修复应用内更新检测不弹出的问题，添加混合内容支持"
-}
