@@ -1,5 +1,5 @@
 {
   "version": "1.0",
-  "url": "https://raw.githubusercontent.com/wuumii/myapp-upgrade/refs/heads/main/pal-incubator.apk",
+  "url": "https://github.com/wuumii/myapp-upgrade/releases/download/v1.0/pal-incubator.apk",
   "changelog": "v1.0 初始版本（新签名证书）"
 }
