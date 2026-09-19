@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
-  "url": "https://github.com/wuumii/myapp-upgrade/releases/download/v1.0/pal-incubator.apk",
-  "changelog": "v1.0 初始版本（新签名证书）"
+  "version": "1.0.1",
+  "url": "https://github.com/wuumii/myapp-upgrade/releases/download/v1.0/pal-incubator-v1.0.1.apk",
+  "changelog": "v1.0.1 修复WebView适配和PWA资源缺失问题"
 }
