@@ -1,5 +1,5 @@
 {
-  "version": "2.0",
+  "version": "1.0",
   "url": "https://raw.githubusercontent.com/wuumii/myapp-upgrade/refs/heads/main/pal-incubator.apk",
-  "changelog": "修复安装失败问题，改用系统下载管理器下载更新(状态栏可见进度)"
+  "changelog": "v1.0 初始版本（新签名证书）"
 }
